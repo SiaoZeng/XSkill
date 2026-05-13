@@ -22,7 +22,7 @@
 
 ## News 🔥🔥
 
-- **2026.05.01:** XSkill has been accpeted by ICML 2026, see you in Souel! 🎉
+- **2026.05.01:** XSkill has been accpeted by ICML 2026, see you in Seoul! 🎉
 - **2026.03.12:** We release our paper.
 
 ---
